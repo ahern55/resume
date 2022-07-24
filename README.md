@@ -20,9 +20,5 @@ To get xelatex to compile my document to the correct output directory, I had to 
   ],
 ```
 
-### Fonts
-I am using the FontAwesome and Roboto fonts. You can find the TrueType `.ttf` font files to install in the [Awesome CV](https://github.com/posquit0/Awesome-CV) template
-
-
 ## Publishing
 I publish my resume to github by running the `publish.sh` script.
