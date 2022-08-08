@@ -21,4 +21,4 @@ To get xelatex to compile my document to the correct output directory, I had to 
 ```
 
 ## Publishing
-I publish my resume to github by running the `publish.sh` script.
+I publish my resume to github by running the `publish.sh` script. The script copies the rendered pdf to this directory and to my [website repo](https://github.com/ahern55/ahern55.github.io).
