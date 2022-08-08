@@ -1,4 +1,4 @@
-# My Resume
+# My Resume -- [Live Version](https://jasonahern.com/resources/resume.pdf)
 
 A repo containing my LaTeX Resume and a quick script to publish it to my website. Based heavily on the template in [Awesome CV](https://github.com/posquit0/Awesome-CV)
 
