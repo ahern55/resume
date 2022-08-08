@@ -1,6 +1,6 @@
 # My Resume -- [Live Version](https://jasonahern.com/resources/resume.pdf)
 
-A repo containing my LaTeX Resume and a quick script to publish it to my website. Based heavily on the template in [Awesome CV](https://github.com/posquit0/Awesome-CV)
+A repo containing my LaTeX Resume and a quick script to publish it to my website. Based heavily on the [Awesome CV](https://github.com/posquit0/Awesome-CV) template.
 
 ## Building
 I use VSCode with [LaTex Workshop](https://github.com/James-Yu/LaTeX-Workshop) to develop and preview my resume.
