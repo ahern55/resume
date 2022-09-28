@@ -1,6 +1,6 @@
-# My Resume
+# My Resume -- [Live Version](https://jasonahern.com/resources/resume.pdf)
 
-A repo containing my LaTeX Resume. Based heavily on the template in [Awesome CV](https://github.com/posquit0/Awesome-CV)
+A repo containing my LaTeX Resume and a quick script to publish it to my website. Based heavily on the [Awesome CV](https://github.com/posquit0/Awesome-CV) template.
 
 ## Building
 I use VSCode with [LaTex Workshop](https://github.com/James-Yu/LaTeX-Workshop) to develop and preview my resume.
@@ -21,4 +21,4 @@ To get xelatex to compile my document to the correct output directory, I had to 
 ```
 
 ## Publishing
-I publish my resume to github by running the `publish.sh` script.
+I publish my resume to github by running the `publish.sh` script. The script copies the rendered pdf to this directory and to my [website repo](https://github.com/ahern55/ahern55.github.io).
